@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentador FO", "WindowsFormsApp3\Documentador FO.csproj", "{6ED5C1FA-A1F7-42B4-AF25-CD7C8AFE596E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED5C1FA-A1F7-42B4-AF25-CD7C8AFE596E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED5C1FA-A1F7-42B4-AF25-CD7C8AFE596E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED5C1FA-A1F7-42B4-AF25-CD7C8AFE596E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED5C1FA-A1F7-42B4-AF25-CD7C8AFE596E}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0159710E-A0CA-4A00-8A92-2AEAAE18AC39}
+	EndGlobalSection
+EndGlobal
